@@ -1,0 +1,11 @@
+# Pentesting Targets File
+# One IP range per line in CIDR notation
+# Lines starting with # are comments
+
+# Example internal networks
+192.168.1.0/24
+10.0.0.0/24
+
+# You can add multiple subnets
+# 172.16.0.0/16
+# 10.10.0.0/16
