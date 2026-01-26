@@ -1,0 +1,14 @@
+# Python dependencies for Pentesting Automation Toolkit
+# Install with: pip install -r requirements.txt
+
+# No additional Python packages required for basic functionality
+# The script uses only standard library modules
+
+# Optional: For enhanced reporting (uncomment if needed)
+# python-docx>=0.8.11
+# openpyxl>=3.0.0
+# jinja2>=3.0.0
+
+# Note: External tools required:
+# - nmap (sudo apt-get install nmap)
+# - masscan (sudo apt-get install masscan) - optional but recommended
